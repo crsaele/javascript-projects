@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: monospace; 
+  }
+  
+  body {
+   background-image: url("/img/arcade-background.jpg");
+   background-repeat: no-repeat, repeat;
+
+  }
+  canvas {
+      background-color: #000000;
+      display: block;
+      margin: 0 auto;
+  }
